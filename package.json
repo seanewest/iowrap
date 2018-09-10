@@ -1,0 +1,14 @@
+{
+  "name": "iowrap",
+  "version": "0.0.1",
+  "description": "Wrap your terminal input and output so that they don't interrupt each other!",
+  "main": "index.js",
+  "keywords": [
+    "tty",
+    "terminal",
+    "input",
+    "output",
+    "chat"
+  ],
+  "license": "ISC"
+}
