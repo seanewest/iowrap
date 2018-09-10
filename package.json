@@ -1,7 +1,7 @@
 {
   "name": "iowrap",
   "version": "0.0.1",
-  "description": "Wrap your terminal input and output so that they don't interrupt each other!",
+  "description": "Prevents output that is being printed to the terminal from interrupting your input as it is being typed",
   "main": "index.js",
   "keywords": [
     "tty",

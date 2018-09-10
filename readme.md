@@ -1,8 +1,15 @@
-## iowrap
-Prevents output that is being printed to the terminal from interrupting input as it is being typed.
+# iowrap
+Prevents output that is being printed to the terminal from interrupting your input as it is being typed.
+
+## install
+```
+npm install seanewest/iowrap
+```
+
+## example
 
 ```javascript
-var iowrap = require('./index.js');
+var iowrap = require('iowrap');
 
 setInterval(function() {
   iowrap.output('some random msg');
