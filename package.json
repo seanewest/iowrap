@@ -2,6 +2,7 @@
   "name": "iowrap",
   "version": "0.0.1",
   "description": "Prevents output that is being printed to the terminal from interrupting your input as it is being typed",
+  "bin": "cmd.js",
   "main": "index.js",
   "keywords": [
     "tty",

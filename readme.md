@@ -6,7 +6,12 @@ Prevents output that is being printed to the terminal from interrupting your inp
 npm install seanewest/iowrap
 ```
 
-## example
+## cli example
+```bash
+iowrap netcat localhost 3000
+```
+
+## node example
 
 ```javascript
 var iowrap = require('iowrap');
